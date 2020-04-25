@@ -129,11 +129,3 @@ Records can be destroyed using the `destroy` method on a table:
 ```ruby
 @table.destroy(record)
 ```
-
-## Contributing
-
-1. Fork it ( https://github.com/nesquena/airtable-ruby/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
