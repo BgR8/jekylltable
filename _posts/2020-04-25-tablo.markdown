@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "AirTable!"
+date:   2020-04-25 21:53:53 +0300
+categories: jekyll update
+---
+
+{% for item in site.data.airtable %}
+
+<p>{{item.title}}</p>
+<p>{{item.content}}</p>
+
+{% endfor %}
