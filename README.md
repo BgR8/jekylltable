@@ -19,6 +19,10 @@ Add this line to your application's Gemfile:
     gem "json"
     gem 'airtable'
 
+And then execute:
+
+    $ bundle install
+
 ## Usage
 
 ### Creating a Client
