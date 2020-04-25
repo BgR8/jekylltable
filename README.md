@@ -14,15 +14,10 @@ API docs.
 
 Add this line to your application's Gemfile:
 
+    gem 'bigdecimal'
+    gem 'activesupport'
+    gem "json"
     gem 'airtable'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install airtable
 
 ## Usage
 
